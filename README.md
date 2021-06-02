@@ -8,7 +8,7 @@ This repository contains code for ASoftmax, for other word ArcFace based on [Arc
 
 Model
 
-```
+```train.py
 class DNN(tf.keras.models.Model):
     def __init__(self, num_classes=10, weight_decay=1e-4):
         super(DNN, self).__init__()
