@@ -1,6 +1,6 @@
-# ASoftmax on tf.Keras
+# AM Softmax on tf.Keras
 
-This repository contains code for ASoftmax, for other word ArcFace based on [ArcFace: Additive Angular Margin Loss for Deep Face Recognition](https://arxiv.org/abs/1801.07698).
+This repository contains code for AM Softmax, for other word ArcFace based on [ArcFace: Additive Angular Margin Loss for Deep Face Recognition](https://arxiv.org/abs/1801.07698).
 
 **You don't need to pass labels to your model when predicting because I implemented predict operation and train operation differently!**
 
